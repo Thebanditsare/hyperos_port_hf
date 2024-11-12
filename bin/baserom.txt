@@ -1,0 +1,6 @@
+
+
+
+fuxi OS1.0.14.0.UMCCNXM 14
+nuwa OS1.0.12.0.UMBCNXM 14
+ishtar OS1.0.16.0.UMACNXM 14
